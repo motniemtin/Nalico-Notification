@@ -1,0 +1,3 @@
+rootProject.name = 'Nalico_Notification'
+
+include ':app'
